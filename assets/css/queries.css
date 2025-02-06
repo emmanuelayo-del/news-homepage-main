@@ -1,0 +1,140 @@
+@media (min-width: 400px) {
+  .heading-word {
+    font-size: 35px;
+    /* width: 4%; */
+  }
+
+  .heading-paragraph {
+    font-size: 12px;
+    /* width: 60%; */
+  }
+
+  .hydrogen {
+    font-size: 13px;
+  }
+
+  .hydrogen-quote {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+
+  .mobile-navigation-bar {
+    display: none;
+  }
+
+  .desktop-navigation-bar {
+    display: block;
+  }
+
+  .desktop-main-nav {
+    border: none;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    color: hsl(233, 8%, 79%);
+  }
+  .desktop-main-nav-list {
+    border: none;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 1rem;
+    color: hsl(233, 8%, 79%);
+  }
+
+  .icon-mobile-nav {
+    display: none;
+  }
+
+  .row--1 {
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+  }
+  .hero-section {
+    width: 80%;
+  }
+
+  .feature-quote {
+    display: flex;
+    gap: 0.1%;
+    justify-content: space-between;
+  }
+  .news {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .image-web-3-mobile {
+    display: none;
+  }
+  .image-web-3-desktop {
+    display: block;
+  }
+
+  .number-01,
+  .number-02,
+  .number-03 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  .image-retro-pcs,
+  .image-laptops,
+  .image-gaming-growth {
+    width: 90px;
+    height: 90px;
+  }
+  .read-more {
+    /* margin-left: 50%; */
+    font-size: 9.5px;
+    letter-spacing: 5px;
+    margin-top: 15px;
+  }
+
+  .reviving,
+  .top-10-laptops,
+  .growth-of-gaming {
+    font-size: 13px;
+    margin-bottom: 7px;
+  }
+
+  .quote {
+    font-size: 12px;
+    line-height: 1.5;
+  }
+  .feature-section {
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 3%;
+  }
+
+  .read-more:hover {
+    background: hsl(240, 100%, 5%);
+    color: #fff;
+    cursor: pointer;
+  }
+  .hero-text {
+    display: flex;
+  }
+  .read-more {
+    /* margin-left: 15rem; */
+  }
+  .catalogue {
+    display: flex;
+  }
+  .cat-small-text:hover {
+    color: hsl(5, 85%, 63%);
+    cursor: pointer;
+  }
+  .desktop-main-nav-link:hover {
+    color: hsl(5, 85%, 63%);
+    cursor: pointer;
+  }
+  .open-menu {
+    display: none;
+  }
+}
