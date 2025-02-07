@@ -64,7 +64,8 @@ img {
 .icon-mobile-nav {
   border: none;
   background: none;
-  margin-left: 8rem;
+  margin-left: 6rem;
+  margin-top: 1rem;
 }
 .main-nav-list {
   list-style: none;
