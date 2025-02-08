@@ -117,9 +117,6 @@
     color: #fff;
     cursor: pointer;
   }
-  .hero-text {
-    display: flex;
-  }
 
   .catalogue {
     display: flex;
