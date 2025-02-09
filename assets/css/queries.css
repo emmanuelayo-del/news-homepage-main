@@ -4,6 +4,9 @@
     /* width: 4%; */
   }
 
+  .hero-text {
+    display: flex;
+  }
   .heading-paragraph {
     font-size: 12px;
     /* width: 60%; */
@@ -89,7 +92,7 @@
     height: 90px;
   }
   .read-more {
-    /* margin-left: 50%; */
+    margin-left: 36%;
     font-size: 9.5px;
     letter-spacing: 5px;
     margin-top: 15px;
